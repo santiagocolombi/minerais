@@ -2,13 +2,15 @@
     "minerais":[
         {    "id": 1,
             "nome":"Quartzo",
-            "sistema cristalino":"Monoclínico"
+            "sistema cristalino":"Monoclínico",
+            "com posição quimica":"b"
 
         },
         {   
             "id": 2,
             "nome":"Turmalina",
-            "sistema cristalino":"Monoclínico"
+            "sistema cristalino":"Monoclínico",
+            "composição quimica":"a"
 
 
         }

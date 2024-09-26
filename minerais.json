@@ -1,0 +1,16 @@
+{
+    "minerais":[
+        {    "id": 1,
+            "nome":"Quartzo",
+            "sistema cristalino":"Monoclínico"
+
+        },
+        {   
+            "id": 2,
+            "nome":"Turmalina",
+            "sistema cristalino":"Monoclínico"
+
+
+        }
+    ]
+}
